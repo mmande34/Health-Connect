@@ -32,7 +32,7 @@ The app will be available at:
 http://localhost:5173
 
 
-Tech Stack
+## Tech Stack
  Vite – fast dev build tool
 
 React – component-based frontend library
@@ -41,7 +41,7 @@ React Router – client-side routing
 
 Tailwind CSS – utility-first styling
 
-Useful Commands
+## Useful Commands
 Start development server:
 
 
@@ -54,7 +54,7 @@ Preview production build locally:
 
 
 `npm run preview`
- Notes
+## Notes
 Always install the latest Node.js LTS version before running the project.
 
 If Tailwind styles are not showing, try stopping the dev server, clearing the Vite cache, and restarting:
