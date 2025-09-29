@@ -49,7 +49,7 @@ Start development server:
 Build for production:
 
 
-npm run build
+`npm run build`
 Preview production build locally:
 
 
