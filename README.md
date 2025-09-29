@@ -20,13 +20,13 @@ Before running the project, make sure you have:
 ##  Setup and Run Locally
 
 1. **Install dependencies**
-   ```bash
+   
    npm install
 Start the development server
 
-bash
-Copy code
+
 npm run dev
+
 The app will be available at:
 http://localhost:5173
 
@@ -43,26 +43,22 @@ Tailwind CSS – utility-first styling
 Useful Commands
 Start development server:
 
-bash
-Copy code
+
 npm run dev
 Build for production:
 
-bash
-Copy code
+
 npm run build
 Preview production build locally:
 
-bash
-Copy code
+
 npm run preview
  Notes
 Always install the latest Node.js LTS version before running the project.
 
 If Tailwind styles are not showing, try stopping the dev server, clearing the Vite cache, and restarting:
 
-bash
-Copy code
+
 rm -rf node_modules/.vite
 npm run dev
 On Windows, you can delete the .vite folder manually inside node_modules.
