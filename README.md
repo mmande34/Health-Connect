@@ -21,11 +21,11 @@ Before running the project, make sure you have:
 
 1. **Install dependencies**
    
-   npm install
+   `npm install`
 Start the development server
 
 
-npm run dev
+`npm run dev`
 
 The app will be available at:
 http://localhost:5173
@@ -44,7 +44,7 @@ Useful Commands
 Start development server:
 
 
-npm run dev
+`npm run dev`
 Build for production:
 
 
@@ -52,15 +52,15 @@ npm run build
 Preview production build locally:
 
 
-npm run preview
+`npm run preview`
  Notes
 Always install the latest Node.js LTS version before running the project.
 
 If Tailwind styles are not showing, try stopping the dev server, clearing the Vite cache, and restarting:
 
 
-rm -rf node_modules/.vite
-npm run dev
+`rm -rf node_modules/.vite
+npm run dev`
 On Windows, you can delete the .vite folder manually inside node_modules.
 
 Run npm install whenever dependencies are updated.
