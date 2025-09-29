@@ -44,16 +44,17 @@ Tailwind CSS – utility-first styling
 ## Useful Commands
 Start development server:
 
-
 `npm run dev`
+
 Build for production:
 
 
 `npm run build`
+
 Preview production build locally:
 
-
 `npm run preview`
+
 ## Notes
 Always install the latest Node.js LTS version before running the project.
 
