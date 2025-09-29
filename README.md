@@ -30,21 +30,7 @@ npm run dev
 The app will be available at:
 http://localhost:5173
 
-Project Structure
-php
-Copy code
-healthconnect-frontend/
-├── src/
-│   ├── layouts/         # Shared layouts (navbar, footer, etc.)
-│   ├── pages/           # Page components (Home, About, Trials, NotFound)
-│   ├── App.jsx          # Main router with routes
-│   ├── main.jsx         # Entry point
-│   └── index.css        # TailwindCSS entry file
-├── public/              # Static assets
-├── tailwind.config.js   # Tailwind configuration
-├── postcss.config.js    # PostCSS configuration
-├── package.json         # Dependencies and scripts
-└── README.md            # Project documentation
+
 Tech Stack
  Vite – fast dev build tool
 
