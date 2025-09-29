@@ -22,6 +22,7 @@ Before running the project, make sure you have:
 1. **Install dependencies**
    
    `npm install`
+   
 Start the development server
 
 
