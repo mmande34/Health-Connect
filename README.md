@@ -7,6 +7,10 @@ The project is part of our ASU Capstone collaboration with CanAge to improve acc
 
 ---
 
+## Install of react on fresh PC to run project react node
+
+https://youtu.be/1l8xKpwHkUk
+
 ##  Prerequisites
 
 Before running the project, make sure you have:
